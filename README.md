@@ -4,7 +4,7 @@
 
 Hacked by Marlon Barrios Solano based on [Replicate repo](https://github.com/replicate/llama-chat)
 
-<img src="vera-ai.png" width="100%" height="300">
+<img src="https://github.com/marlonbarrios/vera-ai2/assets/90220317/9326e68c-cb1b-46ed-820a-4d0a0fe0f30f" width="100%" height="300">
 
 
 
