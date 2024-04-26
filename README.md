@@ -2,13 +2,19 @@
 ```markdown
 # AI-Enhanced Chat Application
 
+Hacked by Marlon Barrios Solano based on replicate repo.
+
+![screenshot of site](./vera-ai.png)
+
+
+## [LIVE ALL HERE](https://vera-ai.vercel.app/)
+
 This is a Next.js application that integrates various AI models to facilitate dynamic and real-time conversations about generative art and AI concepts. Users can interact with the system through a chat interface, upload files for specific content analysis, and customize interaction settings according to their needs.
 
 ## Features
 
 - **Model Selection**: Choose from a variety of pre-defined AI models with unique capabilities tailored to different interaction requirements.
 - **Interactive Chat**: Engage in real-time dialogue with the AI, receiving responses based on sophisticated machine learning algorithms.
-- **Media Handling**: Upload audio or image files, which trigger model switching to accommodate specific media types.
 - **Customizable AI Responses**: Adjust AI behavior through settings such as prompt modification, temperature control, and token limitations to shape the conversation.
 - **Responsive UI**: Experience a fully responsive user interface that adjusts to different device screens for optimal usability.
 
@@ -49,8 +55,7 @@ Open [http://localhost:3000](http://localhost:3000) to view it in your browser. 
 
 1. **Select an AI Model**: Utilize the dropdown to select an AI model that fits the type of interaction you desire.
 2. **Engage with the AI**: Enter your queries or statements in the chat form and submit them to see the AI's response.
-3. **Upload Media**: Upload relevant files for specific discussions or analysis; the system will adapt to handle the media appropriately.
-4. **Adjust AI Settings**: Access the settings through the gear icon to modify the system's prompt, temperature, topP, and maximum tokens.
+3. **Adjust AI Settings**: Access the settings through the gear icon to modify the system's prompt, temperature, topP, and maximum tokens.
 
 ## Contributing
 
