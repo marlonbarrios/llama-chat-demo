@@ -1,9 +1,9 @@
 
-# AI-Enhanced Chat Application
+# Vera-AI: AI-Enhanced Chat Application for LLMs con computational Creativity and LLMs
 
 Hacked by Marlon Barrios Solano based on [Replicate repo](https://github.com/replicate/llama-chat)
 
-<img src="https://github.com/marlonbarrios/vera-ai2/assets/90220317/9326e68c-cb1b-46ed-820a-4d0a0fe0f30f" width="300" >
+<img src="https://github.com/marlonbarrios/vera-ai2/assets/90220317/9326e68c-cb1b-46ed-820a-4d0a0fe0f30f" width="600" >
 
 
 
