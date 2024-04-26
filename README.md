@@ -2,9 +2,11 @@
 ```markdown
 # AI-Enhanced Chat Application
 
-Hacked by Marlon Barrios Solano based on replicate repo.
+Hacked by Marlon Barrios Solano based on [Replicate repo](https://github.com/replicate/llama-chat)
 
-![screenshot of site](./vera-ai.png)
+<img src="vera-ai.png" width="100%" height="300">
+
+
 
 
 ## [LIVE ALL HERE](https://vera-ai.vercel.app/)
