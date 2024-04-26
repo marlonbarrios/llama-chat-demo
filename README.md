@@ -32,9 +32,11 @@ Ensure you have the following installed:
 
 1. **Clone the repository**:
    ```bash
-   git clone https://github.com/your-repository/chat.git
+   git clone https://github.com/marlonbarrios/vera-ai2.git
    cd chat
    ```
+
+   You can also dowload as zipfile
 
 2. **Install dependencies**:
    ```bash
@@ -63,8 +65,6 @@ Open [http://localhost:3000](http://localhost:3000) to view it in your browser. 
 
 Contributions are welcome! Feel free to fork the repository, make improvements, and submit pull requests.
 
-
-
 # Llama Chat 🦙
 
 This is a [Next.js](https://nextjs.org/) app that demonstrates how to build a chat UI using the [Llama 3](https://replicate.com/meta/llama-3-70b-chat) language model and Replicate's [streaming API (private beta)](https://replicate.com/docs/streaming).
@@ -72,8 +72,6 @@ This is a [Next.js](https://nextjs.org/) app that demonstrates how to build a ch
 Here's a demo:
 
 https://github.com/replicate/llama-chat/assets/14149230/e700b256-dc34-4c4e-b912-8a84ec4bec6a
-
-
 
 
 ## Usage
