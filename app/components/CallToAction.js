@@ -17,7 +17,7 @@ export default function CallToAction() {
           Vera-AI | on computational creativity, generative arts and AI
         </h1>
         <p className="text-white mx-auto mt-2 px-2 bg-orange-500 font-bold sm:mt-0">
-         conversational AI powered by Replicate running Llama 3 model
+         conversational AI powered by Replicate running Llama Models
         </p>
         <p className="text-white mx-auto mt-2 px-2 bg-orange-600 font-bold sm:mt-0">
           created by<a

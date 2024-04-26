@@ -1,3 +1,4 @@
+import Image from "next/image";
 export default function EmptyState({ setOpen, setPrompt }) {
   return (
   <div className="flex gap-x-4 rounded-md bg-gray-50 py-5 px-5 mb-12">
@@ -5,7 +6,7 @@ export default function EmptyState({ setOpen, setPrompt }) {
   🦙
   </span>
   <div className="flex flex-col text-sm sm:text-base flex-1 gap-y-4 mt-1">
-  <p>Im an open-source chatbot.</p>
+  <p>My name is Vera-AI</p>
   <p>
   I can{" "}
   <button

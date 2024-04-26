@@ -20,9 +20,13 @@ This is a Next.js application that integrates various AI models to facilitate dy
 
 ### Prerequisites
 
+### You will need a [Replicate key](https://replicate.com/)
+
+
 Ensure you have the following installed:
 - [Node.js](https://nodejs.org/)
 - npm (comes with Node.js) or [yarn](https://yarnpkg.com/)
+
 
 ### Setup
 
