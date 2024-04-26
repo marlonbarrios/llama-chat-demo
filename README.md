@@ -20,6 +20,8 @@ This is a Next.js application that integrates various AI models to facilitate dy
 
 ### Prerequisites
 
+### [Guidelines for suggested developmet environment](https://marlonbarrios.github.io/readiness-directions/)
+
 ### You will need a [Replicate key](https://replicate.com/)
 
 
