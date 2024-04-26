@@ -252,13 +252,13 @@ export default function HomePage() {
         <div className="justify-end">
           <a
             className="inline-flex items-center px-3 py-2 mr-3 text-sm font-semibold text-gray-700 bg-white rounded-md shadow-sm ring-1 ring-inset ring-gray-300 hover:bg-gray-50"
-            href="https://github.com/replicate/chat"
+            href="https://github.com/marlonbarrios/vera-ai2"
           >
             <CodeBracketIcon
               className="w-5 h-5 text-gray-500 sm:mr-2 group-hover:text-gray-900"
               aria-hidden="true"
             />{" "}
-            <span className="hidden sm:inline">Clone on GitHub</span>
+            <span className="hidden sm:inline">Download or Clone on GitHub</span>
           </a>
           <button
             type="button"
