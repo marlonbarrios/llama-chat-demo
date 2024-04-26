@@ -1,5 +1,4 @@
 
-```markdown
 # AI-Enhanced Chat Application
 
 Hacked by Marlon Barrios Solano based on [Replicate repo](https://github.com/replicate/llama-chat)
