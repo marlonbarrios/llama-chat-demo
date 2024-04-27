@@ -1,7 +1,7 @@
 import Image from "next/image";
 export default function EmptyState({ setOpen, setPrompt }) {
   return (
-  <div className="flex gap-x-4 rounded-md bg-gray-50 py-5 px-5 mb-12">
+  <div className="flex gap-x-4 rounded-md bg-gray-50 py-5  mb-12">
   <span className="text-xl sm:text-2xl" title="AI">
   🦙
   </span>
@@ -67,6 +67,15 @@ export default function EmptyState({ setOpen, setPrompt }) {
   }
   >
   create names for your art pieces
+  </button>
+  <button
+  className="bg-orange-400 hover:bg-orange-600"
+  onClick={() =>
+  setPrompt(
+  "create a poem utilizing the Fibonacci sequence to dictate syllable count rather than line count, we can construct a structure where each section of the poem progresses with an increasing number of syllables per line following the sequence. Each section will correspond to a letter of the alphabet, starting with A. Lets consider a poem with the same thematic elements as Inger Christensens Alphabet, focusing on complexity, nature and generativity."
+  )
+  }
+  >create a poem utilizing the Fibonacci sequence to dictate syllable count focused complexity, nature and generativity.
   </button>{" "}
   </p>
   <p>What do you want to chat about?</p>
