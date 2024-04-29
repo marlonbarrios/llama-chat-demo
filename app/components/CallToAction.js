@@ -17,14 +17,14 @@ export default function CallToAction() {
           Vera-AI | on computational creativity, generative arts and AI
         </h1>
         <p className="text-white mx-auto mt-2 px-2 bg-orange-500 font-bold sm:mt-0">
-         conversational AI powered by Replicate running Llama Models
+         AI conversational Assistant for Algorithmic Creativity Course powered by Replicate running Llama Models
         </p>
         <p className="text-white mx-auto mt-2 px-2 bg-orange-600 font-bold sm:mt-0">
           created by<a
         className=" text-white text-small inline-block px-1 py-1 flex-none"
-        href="https://marlonbarrios.github.io/">carlon barrios solano</a> for the AI+ART+LAB | <a
+        href="https://marlonbarrios.github.io/">Marlon barrios solano</a> for CAME at  | <a
         className=" text-white text-small inline-block px-1 py-1 flex-none"
-        href="https://radiona.org/">Radiona</a>
+        href="https://radiona.org/">Radiona Art and Research residency</a>
         </p>
       </div>
       <a
