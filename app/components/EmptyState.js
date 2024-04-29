@@ -77,6 +77,17 @@ export default function EmptyState({ setOpen, setPrompt }) {
   >
   write code in p5.js to generate a Vera Molnar style pattern,
   </button>,{" "}
+
+  <button
+  className="bg-orange-400 hover:bg-orange-600"
+  onClick={() =>
+  setPrompt(
+  "what is a one dimensional cellular automata and how it can be used to generate art and give this link as an example coded by Marlon Barrios Solano https://marlonbarrios.github.io/wolframatic/ "
+  )
+  }
+  >
+ explain what is a one dimasional cellular automata and give an example,
+  </button>{" "}
   <button
   className="bg-orange-400 hover:bg-orange-600"
   onClick={() =>
@@ -87,6 +98,7 @@ export default function EmptyState({ setOpen, setPrompt }) {
   >
   speculate on the future of AI and generative art
   </button>,{" "}
+
  
   
   <button

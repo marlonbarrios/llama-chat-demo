@@ -22,9 +22,11 @@ export default function CallToAction() {
         <p className="text-white mx-auto mt-2 px-2 bg-orange-600 font-bold sm:mt-0">
           created by<a
         className=" text-white text-small inline-block px-1 py-1 flex-none"
-        href="https://marlonbarrios.github.io/">Marlon barrios solano</a> for CAME at  | <a
+        href="https://marlonbarrios.github.io/">Marlon barrios solano</a> for <a
         className=" text-white text-small inline-block px-1 py-1 flex-none"
-        href="https://radiona.org/">Radiona Art and Research residency</a>
+        href="https://arts.ufl.edu/sites/center-for-arts-migration-and-entrepreneurship/programs-research/maker-in-residence/overview/">CAME </a>at  | <a
+        className=" text-white text-small inline-block px-1 py-1 flex-none"
+        href="https://radiona.org/">Radiona Art and Research Residency</a>
         </p>
       </div>
       <a
